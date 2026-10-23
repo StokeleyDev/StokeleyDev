@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="stokeley-banner.gif" alt="Stokeley — pixel lettering, glowing blue towers and controller buttons in a retro console browser. Games, software and the web." width="100%" />
+  <img src="stokeley-banner.gif" alt="Stokeley — pixel lettering, glowing blue towers and controller buttons in a retro console browser. Games, software and the web." width="85%" />
 </p>
 
 <p align="center"><b>Developer &amp; Designer</b><br />Games. Software. The web.<br /><sub>Building worlds, one save at a time.</sub></p>
