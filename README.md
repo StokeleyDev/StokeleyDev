@@ -8,7 +8,7 @@
 
 ### Browser
 
-Welcome to my corner of the internet. I'm **Stokeley**, a developer and designer creating games, software, and websites. I enjoy shaping both how things work and how they feel — from a game's first screen to the small details of an interface.
+Welcome to my corner of the internet. I'm **Stokeley**, a 24-year-old developer and designer from **Tashkent, Uzbekistan**, creating games, software, and websites. I enjoy shaping both how things work and how they feel — from a game's first screen to the small details of an interface.
 
 ### Memory Card · Projects
 
