@@ -14,13 +14,13 @@ Welcome to my corner of the internet. I'm **Stokeley**, a developer and designer
 
 | Slot | Project | Status |
 | :--- | :--- | :--- |
-| 01 | **[Void Hunter](https://github.com/StokeleyDev/VoidHunterUz)** | Current game |
+| 01 | **[Void Hunter](https://github.com/StokeleyDev/Void-Hunter)** | Current game |
 | 02 | **Crimson Survivors** | In development |
 | 03 | Another game | In development · title to be announced |
 | 04 | A software project | In development · details coming soon |
 | 05–06 | Portfolio websites | In development |
 
-<p align="center"><a href="https://github.com/StokeleyDev/VoidHunterUz"><b>Explore Void Hunter</b></a> · <a href="https://github.com/StokeleyDev/VoidHunterUz/releases">Releases</a></p>
+<p align="center"><a href="https://github.com/StokeleyDev/Void-Hunter"><b>Explore Void Hunter</b></a> · <a href="https://github.com/StokeleyDev/Void-Hunter/releases">Releases</a></p>
 
 
 ### Currently Loading
