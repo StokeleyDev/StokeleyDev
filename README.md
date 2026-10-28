@@ -18,7 +18,8 @@ Welcome to my corner of the internet. I'm **Stokeley**, a 24-year-old developer 
 | 02 | **Crimson Survivors** | In development |
 | 03 | Another game | In development · title to be announced |
 | 04 | **[Win98 Skills Explorer](https://github.com/StokeleyDev/win98-skills-explorer)** | Local AI skills manager |
-| 05–06 | Portfolio websites | In development |
+| 05 | **[Questlio](https://github.com/StokeleyDev/Questlio)** | Game library & playtime tracker |
+| 06–07 | Portfolio websites | In development |
 
 <p align="center"><a href="https://github.com/StokeleyDev/Void-Hunter"><b>Explore Void Hunter</b></a> · <a href="https://github.com/StokeleyDev/Void-Hunter/releases">Releases</a></p>
 
