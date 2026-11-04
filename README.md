@@ -12,17 +12,21 @@ Welcome to my corner of the internet. I'm **Stokeley**, a 24-year-old developer 
 
 ### Memory Card · Projects
 
-| Slot | Project | Status |
+| Slot | Project | What it does |
 | :--- | :--- | :--- |
-| 01 | **[Void Hunter](https://github.com/StokeleyDev/Void-Hunter)** | Current game |
-| 02 | **Crimson Survivors** | In development |
-| 03 | Another game | In development · title to be announced |
-| 04 | **[Win98 Skills Explorer](https://github.com/StokeleyDev/win98-skills-explorer)** | Local AI skills manager |
-| 05 | **[Questlio](https://github.com/StokeleyDev/Questlio)** | Game library & playtime tracker |
-| 06–07 | Portfolio websites | In development |
+| 01 | **[Void Hunter](https://github.com/StokeleyDev/Void-Hunter)** | Space bullet-heaven roguelite · browser & Telegram Web App |
+| 02 | **[Questlio](https://github.com/StokeleyDev/Questlio)** | Windows game library & playtime tracker · Liquid Glass interface |
+| 03 | **[Yangi lotin klaviatura](https://github.com/StokeleyDev/yangi-lotin-klaviatura)** | Windows keyboard & text converter for the new Uzbek alphabet |
+| 04 | **[Win98 Skills Explorer](https://github.com/StokeleyDev/win98-skills-explorer)** | Retro desktop for browsing and editing Codex, Claude Code & Gemini skills |
 
-<p align="center"><a href="https://github.com/StokeleyDev/Void-Hunter"><b>Explore Void Hunter</b></a> · <a href="https://github.com/StokeleyDev/Void-Hunter/releases">Releases</a></p>
+### Save Files · Downloads
 
+- **[Questlio · latest release](https://github.com/StokeleyDev/Questlio/releases/latest)** — Windows Setup with an uninstaller, or portable ZIP.
+- **[Yangi lotin klaviatura · latest release](https://github.com/StokeleyDev/yangi-lotin-klaviatura/releases/latest)** — Windows installer and portable ZIP. Converts `sh → ş`, `ch → ç`, `o‘ → ö`, `g‘ → ğ`.
+- **[Void Hunter · run locally](https://github.com/StokeleyDev/Void-Hunter#getting-started)** — game source and launch instructions.
+- **[Win98 Skills Explorer · quick start](https://github.com/StokeleyDev/win98-skills-explorer#quick-start)** — runs locally with Python.
+
+<p align="center"><a href="https://github.com/StokeleyDev?tab=repositories"><b>Browse all repositories</b></a></p>
 
 ### Currently Loading
 
